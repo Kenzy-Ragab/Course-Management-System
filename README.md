@@ -301,4 +301,5 @@ ASP.NET Core Essentials       |            7
 [Link to Task Outline (Google Drive)](https://drive.google.com/drive/folders/1bymBuYNscCCfwwqLD2zsopTTDEiqJDAX)
 
 Made with ❤️ by Kenzy Ragab
+
 Feel free to **fork**, **use**, or **contribute** to this project!
