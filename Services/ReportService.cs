@@ -5,12 +5,16 @@ using System;
 
 namespace CourseManagementSystem.Services
 {
-    public class ReportService : BaseService<InstructorModel>
+    public class ReportService
     {
+         private readonly AppDbContext _context;
         // Constructor 
-        public ReportService(AppDbContext context) : base(context) { }
+        public ReportService(AppDbContext context)
+        {
+            _context = context;
+        }
 
-        
+
         // 2. Select course titles with instructor names
         public IEnumerable<object> GetCoursesWithInstructors() =>  _context.Courses.Include(c => c.Instructor).Select(c => new { c.Title, InstructorName = c.Instructor.FullName }).ToList();
 
