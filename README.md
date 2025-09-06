@@ -300,7 +300,7 @@ ASP.NET Core Essentials       |            7
 
 📎 [Task Outline (Google Drive)](https://drive.google.com/drive/folders/1bymBuYNscCCfwwqLD2zsopTTDEiqJDAX)
 
-📸 [Archived Copy (Google Drive)](https://drive.google.com/drive/u/1/folders/1sb7paWmxPK0UtUOy_JzGELNE5tkZX3az)
+📸 [Archived Copy at submission time (Google Drive)](https://drive.google.com/drive/u/1/folders/1sb7paWmxPK0UtUOy_JzGELNE5tkZX3az)
 
 Made with ❤️ by Kenzy Ragab
 
